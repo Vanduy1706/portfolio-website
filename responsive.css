@@ -1,0 +1,151 @@
+@media (max-width: 1024px) {
+  * {
+    font-size: 14px;
+  }
+
+  .header {
+    padding: 0;
+    background-color: rgb(var(--black-color), 1);
+  }
+  
+  .menu {
+    display: block;
+  }
+
+  .nav {
+    width: 100%;
+    position: absolute;
+    left: 50%;
+    top: 100%;
+    transform: translateX(-50%) translateY(-200%);
+    background-color: rgb(var(--black-color));
+    justify-content: center;
+    padding: 1rem 0;
+    transition: transform 0.5s ease;
+    z-index: -9999;
+  }
+  
+  .nav__appear {
+    transform: translateX(-50%) translateY(0%);
+  }
+  
+  .nav__list {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .info__container p {
+      padding: 2rem 4rem;
+  }
+
+  .info__image {
+    max-width: 12.5rem;
+    height: 12.5rem;
+  }
+
+  .skill__list {
+    grid-template-rows: repeat(2, 1fr);
+  }
+
+  .skill__container {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .skill__container span {
+    padding: 2rem 0;
+  }
+
+  .education__info {
+    width: 100%;
+  }
+
+  .skill__info {
+    width: 100%;
+  }
+
+  .img__logo {
+    max-width: 12.5rem;
+    height: 7.5rem;
+  }
+
+  .project__list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .form {
+    min-height: fit-content;
+  }
+
+  .form__heading {
+    padding: 1rem 2rem;
+  }
+
+  .skill__list {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  * {
+    font-size: 12px;
+  }
+
+  .project__list {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .info__container p {
+      padding: 2rem 2rem;
+  }
+  
+  .info__container {
+    margin: 0;
+  }
+  
+  .header__container {
+    margin: 0 2rem;
+  }
+
+  .info__image {
+    max-width: 12.5rem;
+    height: 12.5rem;
+  }
+  
+  .form {
+    width: 100%;
+    left: 0;
+    min-height: fit-content;
+  }
+
+  .project__container {
+    margin: 0 2rem;
+  }
+
+  .skill__container {
+    margin: 0 2rem;
+  }
+
+  .project__container span {
+    padding: 2rem 0;
+  }
+
+  .info {
+    padding: 2rem 0;
+  }
+
+  .skill {
+    padding: 2rem 0;
+  }
+
+  .skill__container span {
+    display: block;
+    padding: 2rem 0;
+  }
+
+  .education__info {
+    width: 100%;
+  }
+}
