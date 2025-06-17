@@ -102,7 +102,7 @@ closeForm.addEventListener("click", (event) => {
     formDrop.classList.remove("form__transform")
 })
 
-fetch('/project.json')
+fetch('project.json')
     .then(res => res.json())
     .then(data => {
         const projectList = document.querySelector(".project__list")
