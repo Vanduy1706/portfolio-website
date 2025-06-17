@@ -2,7 +2,7 @@
     {
         "nameProject": "Basic Portfolio Website Basic Portfolio Website",
         "typeProject": "Website",
-        "imageUrl": "/assets/coding.jpg",
+        "imageUrl": "assets/coding.jpg",
         "content": "CourseSource is a web application that was built with the MEAN stack for my web development class. I wanted to build this web app to help Northeastern Students have a better experience and more functionalities while browsing the courses offered at Northeastern, especially during registration season. I'm sure many Northeastern students would agree with me that our student portal is in need of a major upgrade, and this web app is just a small example of what our student portal could be like. and this web app is just a small example of what our student portal could be like. and this web app is just a small example of what our student portal could be like.",
         "site": "https://mangafire.to/read/sagaksagak-romancee.xvxr8/en/chapter-105",
         "source": "https://www.youtube.com/watch?v=UnZ-_1u2ybI&ab_channel=UnoSakura%2FKemomimi-Refle%21"
@@ -10,7 +10,7 @@
     {
         "nameProject": "Project V2",
         "typeProject": "Website Portfolio",
-        "imageUrl": "/assets/coding.jpg",
+        "imageUrl": "assets/coding.jpg",
         "content": "Đây là dự án 2 bla bla bla",
         "site": "https://mangafire.to/read/sagaksagak-romancee.xvxr8/en/chapter-105",
         "source": "https://www.youtube.com/watch?v=UnZ-_1u2ybI&ab_channel=UnoSakura%2FKemomimi-Refle%21"
@@ -18,7 +18,7 @@
     {
         "nameProject": "Project V3",
         "typeProject": "Website Portfolio",
-        "imageUrl": "/assets/coding.jpg",
+        "imageUrl": "assets/coding.jpg",
         "content": "Đây là dự án 3 bla bla bla",
         "site": "https://mangafire.to/read/sagaksagak-romancee.xvxr8/en/chapter-105",
         "source": "https://www.youtube.com/watch?v=UnZ-_1u2ybI&ab_channel=UnoSakura%2FKemomimi-Refle%21"
@@ -26,7 +26,7 @@
     {
         "nameProject": "Project V4",
         "typeProject": "Website Portfolio",
-        "imageUrl": "/assets/coding.jpg",
+        "imageUrl": "assets/coding.jpg",
         "content": "Đây là dự án 4 bla bla bla",
         "site": "https://mangafire.to/read/sagaksagak-romancee.xvxr8/en/chapter-105",
         "source": "https://www.youtube.com/watch?v=UnZ-_1u2ybI&ab_channel=UnoSakura%2FKemomimi-Refle%21"

@@ -5,9 +5,9 @@
     --black-icon-color: rgb(72, 65, 65);
     --white-color: 246, 246, 246;
     --gray-color: rgb(231, 231, 231);
-    --introduction-image: url("/assets/backgroundneon.jpg");
-    --project-v1-image: url("/assets/youtube.png");
-    --img-logo-school: url("/assets/huflit.png");
+    --introduction-image: url("assets/backgroundneon.jpg");
+    --project-v1-image: url("assets/youtube.png");
+    --img-logo-school: url("assets/huflit.png");
     --skill-html-color: 227, 79, 38;
     --skill-css-color: 102, 51, 153;
     --skill-sass-color: 204, 102, 153;
@@ -20,7 +20,7 @@
     --skill-express-color: 36, 36, 36;
     --skill-nestjs-color: 224, 35, 78;
     --skill-mongodb-color: 71, 162, 72;
-    --profile-image: url("/assets/profile_pic.JPG")
+    --profile-image: url("assets/profile_pic.JPG")
 }
 
 .space {
@@ -161,7 +161,7 @@
     top: 0%;
     width: 100%;
     height: 100vh;
-    background-image: url("/assets/coding.jpg");
+    background-image: url("assets/coding.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     z-index: -1; 
